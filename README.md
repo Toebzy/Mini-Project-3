@@ -19,3 +19,6 @@ we then tried with more attributes and trained a model with multiple linear regr
 then we tried using a polynominal regression between price and sqm_living.
 
 In the end we concluded that the polynominal regression gave os the best R2 score
+
+# Link to NBViewer to see our notebook:
+https://nbviewer.org/github/Toebzy/Mini-Project-3/blob/main/Mp3/mp3.ipynb
